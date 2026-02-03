@@ -1,6 +1,6 @@
-[submodule "react-tsx"]
-	path = VIP-CS/react-tsx
-	url = https://github.com/rhindottire/react-tsx
-[submodule "VIP-CS/Next.JS"]
-	path = VIP-CS/Next.JS
-	url = https://github.com/rhindottire/Next.JS.git
+[submodule "VIP-CS/React-TSX"]
+	path = VIP-CS/React-TSX
+	url = https://github.com/rhindottire/React-TSX
+[submodule "VIP-CS/Next-JS"]
+	path = VIP-CS/Next-JS
+	url = https://github.com/rhindottire/Next-JS
